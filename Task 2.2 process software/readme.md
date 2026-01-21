@@ -1,4 +1,4 @@
-# 📄 README – Khắc phục lỗi Notepad++ không mở được file Python lớn trên Windows
+# 📄 README – Khắc phục lỗi Notepad++ không mở được file Python lớn trên Windows -- Hello
 
 ## 🎯 Mục đích
 
